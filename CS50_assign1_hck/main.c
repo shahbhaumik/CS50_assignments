@@ -33,11 +33,10 @@ int main()
         for (int hashes =1; hashes <= row; hashes++)                       // Number of hash are equal to number of row
             printf ("#");
         printf("   ");
-        for (int hashes =1; hashes <= row; hashes++)                       // Number of hash are equal to number of row
+        for (int inv_hashes =1; inv_hashes <= row; inv_hashes++)          // Number of inv_hash are equal to number of row
             printf ("#");
     printf("\n");                                                         // Next line
     }
     return 0;
 
 }
-
