@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1434147918 source:/home/bhaumik/Documents/cs50/CS50_assignments/CS50_assign1_std/main.c
+	<cs50.h>
+	<stdio.h>
+	<stdlib.h>
+
