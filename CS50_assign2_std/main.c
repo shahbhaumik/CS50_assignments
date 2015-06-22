@@ -1,7 +1,7 @@
 /*
 Created by Bhaumik Shah
 
-CS50 Week 1 assignment
+CS50 Week 2 assignment Ciser cipher
 Used codeblocks with GCC compiler
 To make it C99 standard
 goto-> Project -> Build properties -> Compiler -> Other
